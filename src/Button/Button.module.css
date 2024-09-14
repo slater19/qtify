@@ -1,0 +1,19 @@
+
+:root {
+--label-color:#34c84b;
+--background-color:#000;
+
+}
+
+button {
+  color: var(--label-color);
+  background-color: var(--background-color);
+  padding: 10px 64px;
+  border-radius: 8px;
+  font-size: 18px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
