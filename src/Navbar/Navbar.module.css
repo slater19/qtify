@@ -13,4 +13,8 @@
     align-items: center;
     justify-content: space-between;
   }
+  .logoDiv{
+    display: flex;
+    margin: 14px;
+  }
   

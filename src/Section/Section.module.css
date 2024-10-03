@@ -1,0 +1,29 @@
+:root {
+    --color-primary: #34c94b;
+  }
+  
+  
+  
+  .parent {
+      background-color: var(--color-primary);
+      height: 74px;
+      width: 100vw;
+      padding: 0px 32px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .topAlbumParent{
+      display: flex;
+      margin: 14px;
+    }
+    .AlbumBar{
+
+    }
+    .heading{
+
+    }
+    .toggleButton{
+        
+    }
+    

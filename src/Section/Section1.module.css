@@ -1,0 +1,47 @@
+.parent{
+    
+    
+    
+}
+
+html, body, body > div, .App {
+    height: 100%;
+    
+  }
+  
+
+.container{
+    padding-left: 50px; 
+    padding-right: 50px; 
+    /* margin-top: 30px; */
+
+}
+
+
+.button_container {
+    
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    
+  }
+
+  hr{
+    width:"100%" ;color:"green" ;size:"5px"
+  }
+  
+  .left {
+    /* styles for left button */
+    color: #fff;
+  }
+  
+  .right {
+    /* styles for right button */
+     color: #2da940;
+     background: none;
+     border: none;
+    /* outline: none; */
+    /* box-shadow: none;  */ 
+    
+  }
+  

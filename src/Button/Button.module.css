@@ -1,4 +1,4 @@
-
+/* 
 :root {
 --color:#2da940;
 --background-color:#000;
@@ -7,16 +7,16 @@
 
 button {
   color: var(--color);
-  /* color: #2da940; */
+  
   background-color: var(--background-color);
   padding: 10px 64px;
   border-radius: 8px;
   font-size: 18px;
   font-family: 'Poppins', sans-serif;
   cursor:pointer;
-}
+}  
 
 button:hover {
   cursor: pointer;
-}
+} */
 
