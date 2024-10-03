@@ -10,8 +10,8 @@ import TopAlbum from "./TopAlbum/TopAlbum";
 function App() {
   return (
     <div className="App">
-     {/* <Navbar/> */}
-     {/* <Hero/> */}
+     <Navbar/>
+     <Hero/>
   <TopAlbum/>
   <hr/>
   <NewAlbum/>
